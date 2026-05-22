@@ -234,6 +234,54 @@ xwd
 
 
 
+\## video
+
+
+
+3gp
+
+asf
+
+avi
+
+f4v
+
+flv
+
+hevc
+
+m2ts
+
+m2v
+
+m4v
+
+mjpeg
+
+mkv
+
+mov
+
+mp4
+
+mpg
+
+mts
+
+ogv
+
+rm
+
+ts
+
+webm
+
+wmv
+
+
+
+
+
 \## elf and pe binary samples
 
 
