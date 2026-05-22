@@ -162,6 +162,78 @@ woff
 
 
 
+\## Image
+
+
+
+bmp
+
+cr2
+
+dds
+
+dng
+
+exr
+
+fts
+
+hdr
+
+heic
+
+ico
+
+jp2
+
+jpe
+
+jpg
+
+jps
+
+nef
+
+nrw
+
+pam
+
+pbm
+
+pcx
+
+pef
+
+pfm
+
+picon
+
+pict
+
+pnm
+
+ppm
+
+raf
+
+ras
+
+svg
+
+tga
+
+tiff
+
+webp
+
+xbm
+
+xwd
+
+
+
+
+
 \## elf and pe binary samples
 
 
