@@ -10,6 +10,8 @@
 
 \### 8svx
 
+
+
 \### aac
 
 
@@ -111,6 +113,38 @@ w64
 wma
 
 wv
+
+
+
+\## Documents
+
+
+
+djvu
+
+doc
+
+odp
+
+ods
+
+ott
+
+pdf
+
+rtf
+
+xls
+
+xlsx
+
+
+
+
+
+
+
+
 
 
 
