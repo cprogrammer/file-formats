@@ -142,7 +142,21 @@ xlsx
 
 
 
+\## Font
 
+
+
+bin
+
+dfont
+
+otf
+
+ps
+
+sfd
+
+woff
 
 
 
