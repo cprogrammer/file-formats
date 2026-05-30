@@ -1,8 +1,3 @@
-# 1. Safety Rules: Force Git to ignore LFS for critical system files
-.gitattributes -text -filter -merge
-.gitignore -text -filter -merge
-*.json -text -filter -merge
-# 2. Exceptions: Keep your documentation as plain text
-*.md -text -filter -merge
-# 3. Catch-all: Track all other files with Git LFS
-* filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4b31c434f08f1c5ac1007f1bde1af9f31ef4f2c909fe3b506d7a0d7b61f8a2a
+size 341
